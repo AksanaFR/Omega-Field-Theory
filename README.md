@@ -5,7 +5,7 @@ Unification Field Theory: Pre-geometric trinitary field theory: emergent geometr
 
 **Author:** Ravena Bazzotti Minussi  
 **Affiliation:** Independent Researcher, Porto Alegre, Brazil  
-**ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) *(substituir quando disponível)*  
+**ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) *(indisponível no momento)*  
 **Latest Preprint:** [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) *(link ativo após submissão)*  
 ---
 
