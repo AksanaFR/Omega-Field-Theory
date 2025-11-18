@@ -8,6 +8,7 @@ Unification Field Theory: Pre-geometric trinitary field theory: emergent geometr
 **ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) *(indisponível no momento)*  
 **Latest Preprint:** [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) *(link ativo após submissão)* 
 **Creative Commons Attribution 4.0 International License**
+
 ---
 
 ## Overview
