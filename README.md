@@ -116,3 +116,4 @@ If you use, reference, or discuss the Ω-field framework, please cite:
   note      = {Preprint},
 }
 
+Creative Commons Attribution 4.0 International License
