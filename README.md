@@ -88,16 +88,16 @@ consistent with fuzzy dark matter phenomenology.
 ## Repository Structure
 Omega-Field-Theory/
 │
-├── paper/
-│ ├── omega-field-theory-v1.2.tex
-│ ├── omega-field-theory-v1.2.pdf
+├── Docs/
+│ ├── 
+│ ├── 
 │ └── figures/
-├── treatise/
-│ ├── Tratado_Unificado_v4.pdf
-│ ├── Genesis_fisica_livro1_v4.odt
+├── Paper/
+│ ├── 
+│ ├── 
 ├── examples/
-│ ├── spectral-block-example.tex
-│ ├── RG-flow.ipynb
+│ ├── 
+│ ├── 
 │ └── operators/
 └── archive/
 ├── previous_versions/
