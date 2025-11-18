@@ -92,16 +92,13 @@ Omega-Field-Theory/
 │ ├── omega-field-theory-v1.2.tex
 │ ├── omega-field-theory-v1.2.pdf
 │ └── figures/
-│
 ├── treatise/
 │ ├── Tratado_Unificado_v4.pdf
 │ ├── Genesis_fisica_livro1_v4.odt
-│
 ├── examples/
 │ ├── spectral-block-example.tex
 │ ├── RG-flow.ipynb
 │ └── operators/
-│
 └── archive/
 ├── previous_versions/
 └── notes/
