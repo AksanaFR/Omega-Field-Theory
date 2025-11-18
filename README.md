@@ -106,7 +106,9 @@ Omega-Field-Theory/
 
 ## Citation
 
-If you use, reference, or discuss the Ω-field framework, please cite:
+This repository contains the extended treatise of the Ω-Field Theory.
+The main paper submitted to arXiv is in English, but auxiliary texts
+and derivations are still in Portuguese. An English version is in development.
 
 ```bibtex
 @article{Minussi2025OmegaField,
