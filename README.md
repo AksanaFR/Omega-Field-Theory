@@ -87,23 +87,16 @@ consistent with fuzzy dark matter phenomenology.
 - Scalar–tensor gravitational waves with amplitude ratio \( \gamma \sim 10^{-3} \)  
 ---
 
-## Repository Structure
-Omega-Field-Theory/
-│
-├── Docs/
-│ ├── 
-│ ├── 
-│ └── figures/
-├── Paper/
-│ ├── 
-│ ├── 
-├── examples/
-│ ├── 
-│ ├── 
-│ └── operators/
-└── archive/
-├── previous_versions/
-└── notes/
+Autor Tips: 
+- This is a extense and complex theory, required more than one filed of knowledge to fully interpretation:
+- Phylosophy
+- Antrophology
+- Semiotic
+- Biology
+- Physics
+- Math and logical Math
+- Quimestry
+- Astronomy
 ---
 
 ## Citation
