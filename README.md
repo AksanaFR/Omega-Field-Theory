@@ -79,6 +79,7 @@ This gives:
 m_{\omega_4} \sim 10^{-22}\,\mathrm{eV},
 \]
 consistent with fuzzy dark matter phenomenology.
+
 ---
 
 ### **4. Observable Predictions**
@@ -97,6 +98,8 @@ Autor Tips:
 - Math and logical Math
 - Quimestry
 - Astronomy
+---
+"""obs: i have visual imparement and you may notice constant writing erros"""
 ---
 
 ## Citation
