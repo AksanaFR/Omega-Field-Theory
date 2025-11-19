@@ -7,7 +7,6 @@ Unification Field Theory: Pre-geometric trinitary field theory: emergent geometr
 **Affiliation:** Independent Researcher, Porto Alegre, Brazil  
 **ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) *(indisponível no momento)*  
 **Latest Preprint:** [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) *(link ativo após submissão)* 
-**Creative Commons Attribution 4.0 International License**
 
 ---
 
@@ -100,6 +99,7 @@ Autor Tips:
 - Astronomy
 ---
 """obs: i have visual imparement and you may notice constant writing erros"""
+**Creative Commons Attribution 4.0 International License**
 ---
 
 ## Citation
