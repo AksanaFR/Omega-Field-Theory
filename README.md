@@ -99,6 +99,7 @@ Autor Tips:
 - Astronomy
 ---
 """obs: i have visual imparement and you may notice constant writing erros"""
+---
 **Creative Commons Attribution 4.0 International License**
 ---
 
