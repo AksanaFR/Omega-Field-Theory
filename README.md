@@ -1,6 +1,6 @@
 # Unified-Field-Theory
 Unification Field Theory: Pre-geometric trinitary field theory: emergent geometry, Yukawa spectra, and fuzzy dark matter.
-# Ω-Field Theory  
+# Unified-Field Theory  
 ### Emergent Geometry, Yukawa Spectra, and Fuzzy Dark Matter from a Trinitary Pre-Geometric Field
 
 **Author:** Ravena Bazzotti Minussi  
