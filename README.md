@@ -1,4 +1,4 @@
-# Omega-Field-Theory
+# Unified-Field-Theory
 Unification Field Theory: Pre-geometric trinitary field theory: emergent geometry, Yukawa spectra, and fuzzy dark matter.
 # Ω-Field Theory  
 ### Emergent Geometry, Yukawa Spectra, and Fuzzy Dark Matter from a Trinitary Pre-Geometric Field
@@ -12,7 +12,7 @@ Unification Field Theory: Pre-geometric trinitary field theory: emergent geometr
 
 ## Overview
 
-The **Ω-Field Theory** is a pre-geometric framework in which spacetime, Standard Model structures, and dark-sector phenomena emerge from a trinitary field:
+The **Unified-Field Theory** is a pre-geometric framework in which spacetime, Standard Model structures, and dark-sector phenomena emerge from a trinitary field:
 
 \[
 \Omega(x) = \bigl(\phi(x), M_{\mu\nu}(x), A_\mu(x)\bigr).
