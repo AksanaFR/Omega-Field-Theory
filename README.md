@@ -33,6 +33,7 @@ The theory is governed by **five differential operators**:
 5. Generation — spectral selection of stable modes  
 
 These operators define the structural algebra responsible for the emergence of geometry and particle masses.
+This research does not aim to create a new physical model, only to change the point of view.
 ---
 
 ## Key Results
