@@ -5,7 +5,7 @@ Unification Field Theory: Pre-geometric trinitary field theory: emergent geometr
 
 **Author:** Ravena Bazzotti Minussi  
 **Affiliation:** Independent Researcher, Porto Alegre, Brazil  
-**Omega Field Theory (Ω)**. Zenodo. DOI: 10.5281/zenodo.17723640
+**Omega Field Theory (Ω)**. Zenodo. DOI:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17723640.svg)](https://doi.org/10.5281/zenodo.17723640)
 **ORCID:** [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000) *(indisponível no momento)*  
 **Latest Preprint:** [arXiv:xxxx.xxxxx](https://arxiv.org/abs/xxxx.xxxxx) *(link ativo após submissão)* 
 
@@ -106,8 +106,9 @@ Autor Tips:
 ---
 
 ## Citation
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17723640.svg)](https://doi.org/10.5281/zenodo.17723640)
 If you use, reference, or discuss the Ω-field framework, please cite:
+
 
 ```bibtex
 @article{Minussi2025OmegaField,
